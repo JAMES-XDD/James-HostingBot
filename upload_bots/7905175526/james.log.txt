@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/app/upload_bots/7905175526/james.py", line 15, in <module>
+    from telethon import TelegramClient, events, Button
+ModuleNotFoundError: No module named 'telethon'
